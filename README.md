@@ -1,6 +1,6 @@
 # IMC_PYTHON
-<br><br>
-<b>Projeto IMC</b>
+<br>
+<h5><b>Projeto IMC</b></h5>
 <br>
 Feito em Python e realizado o Deploy no Docker
 <br>
