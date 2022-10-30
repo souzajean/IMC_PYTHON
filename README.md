@@ -1,9 +1,7 @@
 # IMC_PYTHON
-
-<b>Projeto IMC</br>
+<br><br>
+<b>Projeto IMC</b>
 <br>
 Feito em Python e realizado o Deploy no Docker
 <br>
-Segue processo de estudo como realizar em pdf, junto com as instruções.
-
-
+Segue processo de estudo como foi realizado em pdf, no mesmo tem as instruções como executar.
